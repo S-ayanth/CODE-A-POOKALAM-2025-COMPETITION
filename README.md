@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 - **Name:** SAYANTH KRISHNA KS
 - **Institution/Company:** RIT KOTTAYAM
-- **GitHub:** https://github.com/Saayaah
+- **GitHub:** https://github.com/S-ayanth
 - **Programming Language Used:** p5.js for the script and html & css for hosting a canvas
 
 ## 🎨 My Pookalam
